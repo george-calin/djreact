@@ -1,52 +1,8 @@
 {
-	"workbench.startupEditor": "newUntitledFile",
-
-	"code-runner.executorMap": {
-		"python": "C:\\Users\\georg\\Anaconda3\\envs\\tensorflow_env\\python.exe",
-	},
-	"files.autoSave": "afterDelay",
-	"editor.tabCompletion": "off",
-	"editor.insertSpaces": false,
-	"window.zoomLevel": 0,
-	"breadcrumbs.enabled": true,
-	"auto-close-tag.enableAutoCloseTag": true,
-	"beautify.language": {
-		"js": {
-		"type": ["javascript", "json"],
-		"filename": [".jshintrc", ".jsbeautifyrc"],
-		"ext": ["js", "json"]
-		},
-		"css": ["css", "scss"],
-		"html": ["htm", "html", "django-html"]
-	},
-	"auto-close-tag.activationOnLanguage": [
-		"xml",
-		"php",
-		"blade",
-		"ejs",
-		"jinja",
-		"javascript",
-		"javascriptreact",
-		"typescript",
-		"typescriptreact",
-		"plaintext",
-		"markdown",
-		"vue",
-		"liquid",
-		"erb",
-		"lang-cfml",
-		"cfml",
-		"HTML (Eex)",
-		"django-html"
-	],
-	"workbench.colorTheme": "Material Theme High Contrast",
-	"workbench.iconTheme": "material-icon-theme",
+	"python.pythonPath": "/home/george/anaconda3/bin/python",
 	"editor.formatOnSave": true,
 	"python.linting.pep8Enabled": true,
-	"python.linting.pylintPath": "c://users//georg//anaconda3//envs//tensorflow_env//lib//site-packages/pylint",
-	"python.linting.pylintArgs": [
-		"--load-plugins",
-		"pylint_django"
-	],
-	"python.linting.pylintEnabled": true
-  }
+	"python.linting.pylintPath": "/home/george/anaconda3/bin/pylint",
+	"python.linting.pylintEnabled": true,
+	"explorer.confirmDelete": false,
+}
