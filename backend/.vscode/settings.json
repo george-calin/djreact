@@ -1,8 +1,0 @@
-{
-	"python.pythonPath": "/home/george/anaconda3/bin/python",
-	"editor.formatOnSave": true,
-	"python.linting.pep8Enabled": true,
-	"python.linting.pylintPath": "/home/george/anaconda3/bin/pylint",
-	"python.linting.pylintEnabled": true,
-	"explorer.confirmDelete": false,
-}
